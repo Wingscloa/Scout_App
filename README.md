@@ -1,39 +1,31 @@
-# ScoutApp
+# Be Scout
 
-ScoutApp je mobilní aplikace navržená pro skauty, která kombinuje několik užitečných a zábavných funkcí, aby posílila komunitu skautů a jejich vzdělávání.
+Be Scout je mobilní aplikace navržená pro skauty, která kombinuje několik užitečných a zábavných funkcí, aby posílila komunitu skautů a jejich vzdělávání.
 
 ## Obsah
-- [Funkce aplikace](#funkce-aplikace)
+- [Hlavní funkce aplikace](#hlavní-cíle-aplikace)
 - [Cíl projektu](#cíl-projektu)
-- [Instalace](#instalace)
+- [Vedlejší cíle aplikace dle času](#vedlejší-cíle-aplikace-dle-času)
 - [Použití](#použití)
 - [Přispěvatelé](#přispěvatelé)
 - [Licence](#licence)
 
-## Funkce aplikace
-- **Mapa poloh (podobná Snapchat)**: Skauti mohou vidět polohy ostatních skautů, akce a zajímavosti v okolí.
-- **Profily skautů**: Každý skaut má svůj profil s přehledem dosažených odznaků za splněné úkoly a stezky. Profil obsahuje také badgety a osobní informace.
-- **Chat (podobný WhatsApp)**: Rychlé a bezpečné zasílání zpráv mezi skauty, možnost vytvářet skupiny a sdílet fotky a informace.
-- **Achievmenty a odznaky**: Možnost získat odznaky za splnění skautských úkolů a stezek. Tyto odznaky se zobrazují vedle přezdívky jako forma vychloubání.
-- **Skautské vzdělávání (podobné Duolingo)**: Vzdělávací funkce zaměřená na skautské znalosti, s kvízy, fakty a zajímavostmi o skautingu.
+## Hlavní cíle aplikace
+- **Profily skautů**: Každý skaut má svůj profil s přehledem dosažených odznaků za splněné achievmenty. Profil obsahuje také hodnost a osobní informace.
+
+- **Achievmenty a odznaky**: Odemykání achievmentu za daný úkol, kde skaut obdrží odznak nebo odemknutí další kapitoly achievmentu. Tyto odznaky může vystavit na svém profilu a ukázat, tak ostatním čeho dosáhl.
+
+- **Plánovač** : Slouží k tvoření, upravování a mazání akcí, či schůzek. S informacemi o názvu, termínů, vedoucí, bucket-list věcí, popřípadě přidání úkolů.
+
+- **Skautské vzdělávání**: Vzdělávací funkce zaměřená na skautské znalosti, s kvízy, fakty a zajímavostmi o skautingu. Kde mohou získat vědomosti a splnit určitý achievmenty.
+
+## Vedlejší cíle aplikace dle času
+- **Mapa polohy skautů**: Každý skaut chce poznat další lidi, kteří jsou něčím společný. Skaut uvidí akce a skauty na interaktivní mapě.
 
 ## Cíl projektu
-Cílem ScoutApp je podpora skautského rozvoje, vzdělávání a komunikace v rámci komunity. Skauti mohou snadno zůstat v kontaktu, sledovat své úspěchy a objevovat nové zajímavosti o skautingu.
-
-## Instalace
-1. Stáhněte si aplikaci z [Google Play](#) nebo [App Store](#).
-2. Po instalaci si vytvořte účet pomocí své skautské ID nebo emailu.
-3. Přizpůsobte si svůj profil a začněte používat aplikaci.
+Cílem Be Scout je podpora skautského rozvoje, vzdělávání v rámci komunity. Skauti mohou snadno zůstat v kontaktu, sledovat své úspěchy a objevovat nové zajímavosti o skautingu.
 
 ## Použití
 - Otevřete aplikaci a přihlaste se pomocí svého účtu.
-- Použijte mapu poloh, abyste viděli ostatní skauty v okolí.
-- Prohlédněte si svůj profil a sledujte své dosažené odznaky.
-- Odesílejte zprávy a fotky svým přátelům přes chat.
-- Dokončujte skautské stezky a úkoly, abyste získali nové odznaky.
-
-## Přispěvatelé
-- Tým ScoutApp
-
-## Licence
-Tento projekt je licencován pod licencí MIT. Více informací najdete v souboru `LICENSE`.
+- Prohlédněte si svůj profil a sledujte své dosažené achievmenty.
+- Dokončujte skautské stezky a odborky, abyste získali nové odznaky.
